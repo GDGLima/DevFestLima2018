@@ -6,7 +6,7 @@ GDGLima DevFestLima Noviembre 2018 - https://www.meetup.com/es-ES/gdglima/events
 
 ## Requisitos para los talleres :
 
-Tema | Requisitos 
+Taller | Requisitos 
 ------------ | -------------
 Building beatiful apps in record time with Flutter | Repositorio:<br/>https://github.com/diegoveloper/flutter_codelab_1/blob/master/README.md
 Si aprender Flutter quieres , saber dart debes | Dart compilador online:<br/>https://dartpad.dartlang.org/
