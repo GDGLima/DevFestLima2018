@@ -4,11 +4,11 @@ GDGLima DevFestLima Noviembre 2018 - https://www.meetup.com/es-ES/gdglima/events
 ## 🚀 Organizado : 
 - [X] GDG Lima
 
-Requisitos para los talleres :
+## Requisitos para los talleres :
 
 Expositor | Tema | Requisitos
 
 
-Presentaciones : (coming soon)
+## Presentaciones : (coming soon)
 
 
