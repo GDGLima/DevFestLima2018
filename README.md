@@ -13,6 +13,7 @@ Si aprender Flutter quieres , saber dart debes | Dart compilador online:<br/>htt
 Firebase MLKit: MachineLearning para desarrolladores móviles | https://firebase.google.com/docs/ml-kit/
 AR Core | Android Studio https://developer.android.com/studio/?hl=es-419 <br/>Instalación https://developer.android.com/studio/install?hl=es-419 <br/>Vuforia : https://www.vuforia.com/
 Usando Big Quey GCP | https://cloud.google.com/bigquery/
+Mi primera aplicación  con golang en app engine | IDE Intellij IDEA https://www.jetbrains.com/idea/download/ <br/> Visual Studio https://visualstudio.microsoft.com/es/vs/
 
 
 ## Presentaciones : (coming soon)
